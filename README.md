@@ -66,7 +66,7 @@ Watch my mock interview here:
 
 You can view or download my CV here:
 
- [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899)
+ [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
 
 ---
 
