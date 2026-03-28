@@ -62,6 +62,15 @@ Watch my mock interview here:
 
 ---
 
+## 📄 Curriculum Vitae (CV)
+
+You can view or download my CV here:
+
+ [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899)
+
+---
+
+
 ## 💡 What I’m Currently Working On
 
 - Improving my full-stack development skills  
@@ -98,16 +107,6 @@ I aim to grow as a developer, gain industry experience, and contribute to impact
 ✉️ **Email:** 231089945@mycput.ac.za  
 📍 **Location:** District Six, Cape Town  
 💼 **LinkedIn:** https://www.linkedin.com/in/onika-gobane-063117270/  
-
----
-
-## 📄 Download My CV
-
-You can view or download my CV here:  
-👉 *Upload your CV as a PDF in this repository and link it here*  
-
-Example:  
-[Download CV](./Onika_Gobane_CV.pdf)
 
 ---
 
