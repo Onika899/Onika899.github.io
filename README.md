@@ -58,7 +58,10 @@ Matric (Grade 12) *(Completed 2022)*
 
 Watch my mock interview here:  
 
-[Watch Video](https://drive.google.com/your-video-link)
+<h2>Mock Interview Video</h2>
+<video width="800" height="450" controls>
+  <source src="assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
+</video>
 
 ---
 
