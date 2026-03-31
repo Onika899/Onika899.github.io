@@ -54,6 +54,14 @@ Matric (Grade 12) *(Completed 2022)*
 
 ---
 
+## 📄 Curriculum Vitae (CV)
+
+You can view or download my CV here:
+
+ [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
+
+---
+
 ## 🎥 Mock Interview Video
 
 Watch my mock interview here:  
@@ -62,14 +70,6 @@ Watch my mock interview here:
 <video width="800" height="450" controls>
   <source src="assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
 </video>
-
----
-
-## 📄 Curriculum Vitae (CV)
-
-You can view or download my CV here:
-
- [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
 
 ---
 
