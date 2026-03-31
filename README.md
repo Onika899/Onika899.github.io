@@ -68,7 +68,7 @@ Watch my mock interview here:
 
 <h2>Mock Interview Video</h2>
 <video width="800" height="450" controls>
-  <source src="assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
+<source src="assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
 </video>
 
 ---
