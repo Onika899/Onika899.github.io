@@ -54,26 +54,6 @@ Matric (Grade 12) *(Completed 2022)*
 
 ---
 
-## 📄 Curriculum Vitae (CV)
-
-You can view or download my CV here:
-
- [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
-
----
-
-## 
-
-<h2>🎥 Mock Interview Video</h2>
-
-<video width="100%" height="450" controls>
-  <source src="/assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-
 ## 💡 What I’m Currently Working On
 
 - Improving my full-stack development skills  
@@ -113,6 +93,24 @@ I aim to grow as a developer, gain industry experience, and contribute to impact
 
 ---
 
+## 📄 Curriculum Vitae (CV)
+
+You can view or download my CV here:
+
+ [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
+
+---
+
+## 
+
+<h2>🎥 Mock Interview Video</h2>
+
+<video width="100%" height="450" controls>
+  <source src="/assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 ## ✨ Final Note
 
 Thank you for taking the time to view my portfolio. I am excited about opportunities to learn, grow, and contribute to the tech industry.
