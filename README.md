@@ -104,14 +104,13 @@ You can view or download my CV here:
 ## 
 
 <h2>🎥 Mock Interview Video</h2>
-
+<video width="100%" height="450"controls>
 <a href="https://github.com/onika899/Onika899.github.io/raw/main/video/Onika_Gobane_Mock%20interview%20video.mp4">
-  <img src="https://via.placeholder.com/600x350.png?text=Watch+My+Mock+Interview" width="600">
+  ▶️ Click here to watch my mock interview video
 </a>
 
-<p>Click the image above to watch my mock interview video.</p>
-
 ---
+
 
 ## ✨ Final Note
 
