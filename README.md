@@ -105,10 +105,11 @@ You can view or download my CV here:
 
 <h2>🎥 Mock Interview Video</h2>
 
-<video width="100%" height="450"controls>
-  <source src="https://github.com/onika899/YOUR-REPO/raw/main/assets/Onika_Gobane_Mock_interview_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://github.com/onika899/Onika899.github.io/raw/main/video/Onika_Gobane_Mock%20interview%20video.mp4">
+  <img src="https://via.placeholder.com/600x350.png?text=Watch+My+Mock+Interview" width="600">
+</a>
+
+<p>Click the image above to watch my mock interview video.</p>
 
 ---
 
