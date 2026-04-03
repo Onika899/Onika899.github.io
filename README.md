@@ -72,11 +72,10 @@ Diploma in ICT: Application Development – Final Year
 **Mangqegelana Sinethemba**  
  079 079 3680
 
-<h2>🎥 Mock Interview Video</h2>
+##🎥 Mock Interview Video
 
-<a href="https://github.com/onika899/Onika899.github.io/raw/main/video/Onika_Gobane_Mock%20interview%20video.mp4">
-  <img src="https://github.com/onika899/Onika899.github.io/raw/main/video/video-thumbnail.png" width="600">
-</a>
-
+<video width="600" controls>
+  <source src=".mp4" type="video/mp4">
+</video>
 
 
