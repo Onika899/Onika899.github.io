@@ -72,7 +72,7 @@ Diploma in ICT: Application Development – Final Year
 **Mangqegelana Sinethemba**  
  079 079 3680
 
-##🎥 Mock Interview Video
+🎥 Mock Interview Video
 
 <video width="600" controls>
   <source src="4880ED72-56B9-4631-8048-1D59070CD55B.mp4" type="video/mp4">
