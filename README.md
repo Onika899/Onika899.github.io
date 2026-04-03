@@ -1,105 +1,76 @@
-# 👩🏽‍💻 Hey there, I'm Onika Gobane
+# ONIKA GOBANE
 
-## 🌐 Portfolio
+## CONTACT
 
-Welcome to my GitHub portfolio! I am a final-year Information Technology (Application Development) student passionate about building functional software solutions. My goal is to become a software developer where I can design, develop, and improve applications that solve real-world problems. I am continuously learning and improving my skills in programming, databases, and system development.
-
----
-
-## 📌 About Me
-
-I am currently completing my Diploma in ICT: Application Development. I have a strong foundation in programming, database management, and interface design. I am eager to grow in the tech industry and contribute to real-world software development.
-
-💡 **What I enjoy:**
-- Building web and software applications  
-- Designing clean and user-friendly interfaces  
-- Learning new technologies and improving my coding skills  
-- Solving real-world problems through technology  
+📞 064-062-6907  
+✉️ 231089945@mycput.ac.za  
+📍 10 Dorset Street, District Six , 7925   
+🐙 www.github.com/Onika899  
+💼 www.linkedin.com/in/onika-gobane-063117270/
 
 ---
 
-## 🛠️ Technical Skills
+## PROFILE
 
-### 💻 Programming Languages
-- Java  
-- Python  
-- PHP  
-- JavaScript  
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-
-### 🧠 Concepts & Tools
-- Object-Oriented Programming (OOP)  
-- Database Design & MySQL  
-- Git Version Control  
-- UI/UX Design Principles  
-- Cybersecurity Awareness  
-- Database Connectivity (JDBC)  
-- Blockchain & Cryptocurrency Basics  
+Final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT) with a growing passion for software and web application development. Enjoy creating functional digital solutions and designing user-friendly interfaces that enhance overall user interaction. Currently seeking an internship or junior developer role where I can apply my programming, database, and UI/UX design skills while developing practical industry experience.
 
 ---
 
-## 🎓 Education
+## TECHNICAL SKILLS
 
-**Cape Peninsula University of Technology (CPUT)**  
-Diploma in ICT: Application Development *(Final Year)*  
+- Java
+- Python
+- PHP
+- JavaScript
+- HTML
+- CSS
+- Object-Oriented Programming
+- Database Basics
+- Cybersecurity Awareness
+- MySQL / Database Connectivity
+- Git Version Control
+- Blockchain and Cryptocurrency
+- User Interface (UI) Design
 
-**Cape Peninsula University of Technology (CPUT)**  
-Higher Certificate in Information & Communication Technology *(Completed 2024)*  
+---
+
+## EDUCATION
 
 **Cofimvaba High School**  
-Matric (Grade 12) *(Completed 2022)*  
+Matric (Grade 12) – Completed 2022  
+
+**Cape Peninsula University of Technology (CPUT)**  
+Higher Certificate in Information & Communication Technology – Completed 2024  
+
+**Cape Peninsula University of Technology (CPUT)**  
+Diploma in ICT: Application Development – Final Year  
 
 ---
 
-## 💡 What I’m Currently Working On
+## PROJECT EXPERIENCE
 
-- Improving my full-stack development skills  
-- Strengthening my knowledge of databases and backend systems  
-- Building responsive and modern UI designs  
-- Expanding my GitHub portfolio  
+### CPUT Admission Tracking System (Project Manager) – 2025  
+**Technologies:** Java, Java Swing, JDBC, MySQL
 
----
+- Led a development team in designing an Admission Tracking System to manage student application data.
+- Developed GUI components and contributed to system architecture using object-oriented programming principles.
+- Implemented database connectivity and supported documentation, reporting, and authentication features.
 
-## 🎯 Career Goals
+### Capitec Mobile Banking App Redesign Prototype (Design Leader) – 2025  
+**Tools:** Figma, UI/UX Design
 
-I am currently seeking:
-- Internship opportunities  
-- Junior Developer roles  
-
-I aim to grow as a developer, gain industry experience, and contribute to impactful software solutions.
+- Created high-fidelity prototypes for key features including dashboard, transactions, payments, and profile management.
+- Applied user-centered design principles and coordinated design improvements based on feedback and iteration.
 
 ---
 
-## 🤝 Soft Skills
+## REFERENCES
 
-- Teamwork & Collaboration  
-- Problem Solving  
-- Communication Skills  
-- Time Management  
-- Leadership (Project & Design roles)  
-- Adaptability & Willingness to Learn  
+**Nomonde Jekeqa**  
+ 072 965 9797  
 
----
-
-## 📫 Contact Me
-
-📞 **Phone:** 064-062-6907  
-✉️ **Email:** 231089945@mycput.ac.za  
-📍 **Location:** District Six, Cape Town  
-💼 **LinkedIn:** https://www.linkedin.com/in/onika-gobane-063117270/  
-
----
-
-## 📄 Curriculum Vitae (CV)
-
-You can view or download my CV here:
-
- [Download My CV](https://github.com/wil-it-2026/cv-submission-Onika899/blob/main/Onika%20Gobane%20CV.pdf)
-
----
+**Mangqegelana Sinethemba**  
+ 079 079 3680
 
 <h2>🎥 Mock Interview Video</h2>
 
@@ -107,11 +78,5 @@ You can view or download my CV here:
   <img src="https://github.com/onika899/Onika899.github.io/raw/main/video/video-thumbnail.png" width="600">
 </a>
 
-<p>Click the image above to watch my mock interview video.</p>
-
----
 
 
-## ✨ Final Note
-
-Thank you for taking the time to view my portfolio. I am excited about opportunities to learn, grow, and contribute to the tech industry.
